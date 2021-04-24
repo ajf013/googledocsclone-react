@@ -1,0 +1,15 @@
+{
+  "short_name": "Google Docs Clone",
+  "name": "Join webshine learning to do projects like this",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAbFBMVEUmhPz///8AZtoUf/yYwP54rv7r8//S5P4PfvzX5/7m8P8ZgvzC2v4hhvz5+/8IfPwAZNrR4P7Q3/dMmP3Q4PcAYtrH3f5bnv3g7f+30v6fxP681f5hof1yqf0AWdjx9/8AXtkAV9ity/5BkfzfDGbxAAADRklEQVR4nO3d0XLaMBBAUYQJCExqp7QkkFCa9P//sXQI0047U0vyrlebuTdveUh0xpFkg2Nm4aM3sx6Aegj9h9B/CP2H8O8228WdRqfPKryQK9w/trHR6asWMUf4tOvamVb9qxIxQ3iIer7ZbN4rHcV04bFT9F2E875XISYLn3WBF+G8/65BTBUulYG/hDrEVOGL5hy8CVXmYqJwFZWBV6EGMVF4aqYRzvtvX0yE53tt4E0ofxTThGvtdea3UHzTSBMeJhRKH8U04UJ9Gv4hvMxFSWKNQtmjWKVQlFinUPLsplKhILFWodymUa3wMhdlzm7qFc77VxFixUKhFbVmocxcrFoosqLWLZQ4gatcKDAXaxeOJ1YvHP2HWr9w7HLjQDhy0/AgHHcC50I4H/O2jQ/hmBXViXDEXPQiLF9R3QiLiX6EpXPRkbCQ6ElY9raNK2HRUfQlLNk0nAkLTuC8CfMvptwJs+eiP2Eu0aEw8+zGozCP6FKYtWn4FOZsGk6FGW/beBWmr6huhRdjGrEaYX5x8dGFDUKECM1DiBChfQgRIrQPIUKE9iFEiNA+hAgR2odQWNjKV5Wwez4vpTsPPadiWuFD0o/J6wEhwmsIryFEWBRChO8hvDYkjG8r+d4Gntw07Zl300TpmsHfydUTQoTmIUSI0D6ECBHahxBhnrBVeEr70BsXE18Br+Wr6gr447+KgbAohAjfQ3gNIcKiEE58t8lyI92yqrtNNG4YGrxliKsnhAjtQ4gQoX0IESK0DyHCPGHT3YqXr3/733dLP3hwUmFz3Ja3/+FAOO5VjF3Z52MiRIgQIUKECBEKC+M+fCrOhXB2P6YiH1dPCBHWEEKECO1DiBChfQgRIrQPIUKE9iFEiNA+hAgR2ocQIUL7ECJEaB9ChAjtQ4gQoX0Is4SHgQc4mNQdBIXrKoVrQeG59B5Qze7PgsJwqm8iNqe0oScKV6X/QqdXXIkKw0vZvdh6tS+JI08VLmtba7qlsDAMPfFn4rrn1IEnC8OxJmJ3TB53ujAcYi1zsY1pm32uMDztuhqMbbd7yhh1jjCE/WMbFZ42m1NsH/dZY84ThrDZLu4sW2w3mSPOFfoLof8Q+g+h/xD67ycl96/hqfAspgAAAABJRU5ErkJggg==",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
